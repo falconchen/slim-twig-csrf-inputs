@@ -1,6 +1,6 @@
 # slim twig view csrf inputs
 
-A slim twig template extension for easy appending the hidden csrf inputs fields
+A slim twig template extension for easy appending the hidden csrf inputs fields.
 
 
 ### usage:

@@ -26,10 +26,5 @@
         "FalconChen\\Slim\\Views\\TwigExtension\\": "src/"
       }
     },
-    "autoload-dev": {
-      "psr-4": {
-        "FalconChen\\Slim\\Views\\TwigExtension\\": "test/"
-      }
-    },
-    "license": "GPL-2.0+"
+	"license": "GPL-2.0+"
 }
